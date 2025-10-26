@@ -1,0 +1,6 @@
+/target
+.env
+cache/*.png
+!cache/.gitkeep
+*.log
+.DS_Store
